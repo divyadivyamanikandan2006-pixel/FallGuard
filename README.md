@@ -81,3 +81,9 @@ The system can be further enhanced by integrating:
 ## 🔖 Project Name
 
 **FallGuard – Smart Patient Fall Detection System**
+## 📸 Project Images
+![Circuit Diagram](fall%20ckt1.jpeg)
+
+![Project Demonstration](fall%20guard%20ex%20pic.jpeg)
+
+![Project Achievement](fall%20guard%20cert%20pic.jpeg)
